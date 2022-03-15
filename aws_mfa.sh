@@ -1,6 +1,6 @@
 set -e
 ########################################################################################
-## Name: climfa.sh
+## Name: aws_mfa.sh
 ## Author: Mark Bixler, modified by Mitchell Ciupak
 ## Date: 20211102
 ## Usage:
