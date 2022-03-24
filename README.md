@@ -1,9 +1,7 @@
 # aws_mfa
 Automate MFA Token access to the AWS CLI
-
-# Author: Mark Bixler, modified by Mitchell Ciupak
-
-# Date: 20211102
+Author: Mark Bixler, modified by Mitchell Ciupak
+Date: 20211102
 
 ## Usage:
     user@pc:~/.aws$ chmod u+x awscli_mfa.sh
